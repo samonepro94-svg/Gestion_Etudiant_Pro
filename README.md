@@ -1,6 +1,28 @@
 # Gestion des étudiants
 
-Application Android de gestion des étudiants développée avec MIT App Inventor.
+Application Android de gestion des étudiants développée avec MIT App Inventor
+
+## Présentation
+
+Gestion des étudiants est une application Android conçue pour faciliter
+la gestion scolaire.
+
+L'application permet d'enregistrer les étudiants, leurs matières et leurs
+notes, puis de calculer automatiquement différentes statistiques et le
+classement.
+
+Le projet a été conçu et développé avec MIT App Inventor.
+
+## Points techniques
+
+- Stockage local des données avec TinyDB
+- Gestion des étudiants
+- Ajout et modification des matières et des notes
+- Calcul des statistiques
+- Classement automatique
+- Gestion des étudiants ex æquo
+- Filtrage par école, par classe et par sexe 
+- Interface adaptée à Android
 
 ## Fonctionnalités
 
@@ -22,10 +44,6 @@ Application Android de gestion des étudiants développée avec MIT App Inventor
 - Android
 - TinyDB
 
-## Auteur
-
-Samuel Dieu-donné Koïba
-
 ## Télécharger l'application
 
 📱 [Télécharger l'APK](GestionEtudiants.apk)
@@ -45,3 +63,20 @@ Samuel Dieu-donné Koïba
 
 ### Modification d'un étudiant
 ![Modification d'un étudiant](screenshots/modification-étudiant.jpg)
+
+## Auteur
+
+Samuel Dieu-donné Koïba (étudiant en licence génie informatique)
+
+## Ce que j'ai appris
+
+À travers ce projet, j'ai appris à :
+
+- Concevoir une application Android
+- Manipuler des listes et des données dans App Inventor
+- Utiliser TinyDB pour le stockage local
+- Créer des algorithmes de classement
+- Gérer les ex æquo
+- Filtrer et trier des données
+- Corriger des problèmes liés à la logique de l'application
+- Concevoir une interface utilisateur adaptée à un besoin réel
