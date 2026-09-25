@@ -2,6 +2,12 @@
 
 Application Android de gestion des étudiants développée avec MIT App Inventor
 
+## Version
+
+**Version actuelle : v1.0.0**
+
+Première version publique de l'application de gestion des étudiants.
+
 ## Présentation
 
 Gestion des étudiants est une application Android conçue pour faciliter
