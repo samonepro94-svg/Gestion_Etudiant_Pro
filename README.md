@@ -26,6 +26,12 @@ Application Android de gestion des étudiants développée avec MIT App Inventor
 
 Samuel Dieu-donné Koïba
 
+## Télécharger l'application
+
+📱 [Télécharger l'APK](GestionEtudiants.apk)
+
+> Version actuelle de l'application de gestion des étudiants.
+
 ## Captures d'écran
 
 ### Ajout d'un étudiant
