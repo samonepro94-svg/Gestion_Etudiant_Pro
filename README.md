@@ -25,3 +25,17 @@ Application Android de gestion des étudiants développée avec MIT App Inventor
 ## Auteur
 
 Samuel Dieu-donné Koïba
+
+## Captures d'écran
+
+### Ajout d'un étudiant
+![Ajout d'un étudiant](screenshots/ajouter-étudiant.jpg)
+
+### Classement des étudiants
+![Classement des étudiants](screenshots/classement.jpg)
+
+### Détail d'un étudiant
+![Détail d'un étudiant](screenshots/détail-étudiant.jpg)
+
+### Modification d'un étudiant
+![Modification d'un étudiant](screenshots/modification-étudiant.jpg)
