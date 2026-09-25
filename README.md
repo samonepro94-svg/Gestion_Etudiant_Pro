@@ -70,6 +70,17 @@ Le projet a été conçu et développé avec MIT App Inventor.
 ### Modification d'un étudiant
 ![Modification d'un étudiant](screenshots/modification-étudiant.jpg)
 
+## Améliorations futures
+
+- Synchronisation des données en ligne
+- Sauvegarde et restauration des données
+- Export des résultats
+- Génération de rapports PDF
+- Amélioration de l'interface utilisateur
+- Ajout de nouvelles statistiques
+- Notifications et rappels
+- Version disponible sur plusieurs plateformes
+
 ## Auteur
 
 Samuel Dieu-donné Koïba (étudiant en licence génie informatique)
