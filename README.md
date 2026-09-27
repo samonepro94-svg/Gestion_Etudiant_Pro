@@ -52,9 +52,13 @@ Le projet a été conçu et développé avec MIT App Inventor.
 
 ## Télécharger l'application
 
-📱 [Télécharger l'APK](GestionEtudiants.apk)
+📱 [Télécharger l'APK](Gestion_Etudiant_Pro.apk)
 
 > Version actuelle de l'application de gestion des étudiants.
+
+## Démonstration
+
+🎥 [Voir la démonstration de l'application](https://youtube.com/shorts/flfB9EZ8MC8?si=Il3J_OIqWgDy-_Ec)
 
 ## Captures d'écran
 
